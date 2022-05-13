@@ -1,1 +1,1 @@
-# git-demo
+# xygit-demo
